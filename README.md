@@ -4,7 +4,7 @@ Software testing is a field that has intrigued me the most. I am especially fasc
 My professional experience will be particularly valuable in testing accounting software or payment applications.    
 
 
-In most of my repositories you will find tasks that I tackled during the software testing course at GOIT!
+In most of my repositories you will find assignments that I tackled during the software testing course at GOIT!
 
 ![My Profile Picture](https://tse4.mm.bing.net/th/id/OIG1.LhciZYmSI9GAe3Dk.Ln9?pid=ImgGn)
 
