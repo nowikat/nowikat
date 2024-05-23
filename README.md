@@ -1,7 +1,7 @@
 ## Hi there 👋  
 I am an accountant with 8 years of experience who recently decided to switch to the IT industry.   
 Software testing is a field that has intrigued me greatly. I am particularly fascinated by the possibilities of automation.   
-In my repository, you will mainly find tasks that I tackled during the software testing course at GOIT.  
+In most of my repositories you will find tasks that I tackled during the software testing course at GOIT.  
 
 ![My Profile Picture](https://tse4.mm.bing.net/th/id/OIG1.LhciZYmSI9GAe3Dk.Ln9?pid=ImgGn)
 
