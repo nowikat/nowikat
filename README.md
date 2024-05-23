@@ -3,7 +3,8 @@ I am an accountant with 8 years of experience who recently decided to switch to 
 Software testing is a field that has intrigued me greatly. I am particularly fascinated by the possibilities of automation. 
 In my repository, you will mainly find tasks that I tackled during the software testing course at GOIT.
 
-![My Profile Picture] (https://tse4.mm.bing.net/th/id/OIG1.LhciZYmSI9GAe3Dk.Ln9?pid=ImgGn)
+![My Profile Picture](https://tse4.mm.bing.net/th/id/OIG1.LhciZYmSI9GAe3Dk.Ln9?pid=ImgGn)
+
 
 <!--
 **nowikat/nowikat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
