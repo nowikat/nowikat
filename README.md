@@ -3,6 +3,8 @@ I am an accountant with 8 years of experience who recently decided to switch to 
 Software testing is a field that has intrigued me the most. I am especially fascinated by the possibilities of automation.   
 My professional experience will be particularly valuable in testing accounting software or payment applications.   
 Moreover, I'm interested in AI-based applications, especially those for language learning due to my background in English Philology.  
+My dream job is to work on developing such applications!
+
 ## Courses  
 **GOIT - QA Manual**💻       
 During the course I learned about the tools:
