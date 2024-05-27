@@ -22,7 +22,7 @@ Moreover I gained knowledge from:
 - ISTQB
 - [Mobile testing](https://drive.google.com/drive/u/0/folders/1CZ5Cxr-Cafes31sX29Ebn7K_IxpsD6kK)
 - [Static analysis](https://drive.google.com/drive/u/0/folders/1FpLNGYRdNFHPcM3ALjPHfn8xcEMBNSSq)
-- [Acceptance tests] (https://docs.google.com/document/d/159dCaa1FmkBdBK8nr-onm2Yp2L3yTkpJJWbqQfxM0rI/edit)
+- [Acceptance tests](https://docs.google.com/document/d/159dCaa1FmkBdBK8nr-onm2Yp2L3yTkpJJWbqQfxM0rI/edit)
 - [Black-box testing](https://docs.google.com/document/d/1BtYBNY1wCkiWgkfFmUu4AaC73UPrGa1jTCzpOomGbnA/edit)
 - [White-box testing](https://docs.google.com/document/d/1NHhuowMAPd615HyXJTk1bUjRc43JPkMNS9TMvXB5-sM/edit)
 
