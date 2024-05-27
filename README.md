@@ -18,16 +18,17 @@ During the course I learned about the tools:
 - [DBeaver](https://docs.google.com/document/d/1qCZ5hgzyzTVNhGEKbu1HZlDvBDosgRloRiu83ilOwGo/edit)  (SQL)
 
 
-Moreover I gained knowledge from
+Moreover I gained knowledge from:
 - ISTQB
 - [Mobile testing](https://drive.google.com/drive/u/0/folders/1CZ5Cxr-Cafes31sX29Ebn7K_IxpsD6kK)
-- [Static program analysis](https://drive.google.com/drive/u/0/folders/1FpLNGYRdNFHPcM3ALjPHfn8xcEMBNSSq)
+- [Static analysis](https://drive.google.com/drive/u/0/folders/1FpLNGYRdNFHPcM3ALjPHfn8xcEMBNSSq)
+- [Acceptance tests] (https://docs.google.com/document/d/159dCaa1FmkBdBK8nr-onm2Yp2L3yTkpJJWbqQfxM0rI/edit)
 - [Black-box testing](https://docs.google.com/document/d/1BtYBNY1wCkiWgkfFmUu4AaC73UPrGa1jTCzpOomGbnA/edit)
 - [White-box testing](https://docs.google.com/document/d/1NHhuowMAPd615HyXJTk1bUjRc43JPkMNS9TMvXB5-sM/edit)
 
 
 
- 🚀 [**THE FINAL PROJECT**](https://docs.google.com/presentation/d/1CXtxnlHd7Y-HybfeOGOI3J84Txl9VztBW7NaGl_HDl8/edit#slide=id.g1213a43354d_0_0) 🚀
+ 🚀 [**THE FINAL PROJECT**](https://docs.google.com/presentation/d/1CXtxnlHd7Y-HybfeOGOI3J84Txl9VztBW7NaGl_HDl8/edit#slide=id.g1213a43354d_0_0) 🚀    
 
 
 **GOIT - QA Automation** 🤖 / in progress
