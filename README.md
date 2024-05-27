@@ -38,7 +38,30 @@ Moreover I gained knowledge from
 - [Artillery](https://github.com/nowikat/cypress/tree/main/artillery)
 - Github Actions
 
+## Work experience
+**Accountant at Pieprzyk Group** / 2015 - now  
+Thanks to my work as an accountant, I have experience with accounting and finance software:  
+
+- KFWin by Agrobex (Financial and Accounting System)
+- eDek by Word Software (E-Declaration Submission Program)
+- iBiznes24 Platform (Santander Bank)
+- Tpay (Payment Intermediary)
+- Polskie ePłatności (Payment Intermediary)
+- Elavon (Payment Intermediary)
+- Novitus (Online Cash Registers)
+- SBEN Centrala by Almar (Fuel Station Management System)
+- Druki Gofin (forms templates)
+- iBiznes by Firmatec (Accounting Document Issuance Program)
+
+
 ![My Profile Picture](https://tse4.mm.bing.net/th/id/OIG1.LhciZYmSI9GAe3Dk.Ln9?pid=ImgGn)
+
+
+
+
+
+
+
 
 If you want to know more about me check out [my CV](https://nowikat.github.io/Portfolio/resume/index.html)
 
