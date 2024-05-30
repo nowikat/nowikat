@@ -1,5 +1,5 @@
 ## About me 👩‍💻    
-I am an accountant with 8 years of experience who recently decided to switch to the IT industry.   
+I am an accountant with 8 years of experience who decided to switch to the IT industry.   
 Software testing is a field that has intrigued me the most. I am especially fascinated by the possibilities of automation.   
 My professional experience will be particularly valuable in testing accounting software or payment applications.   
 Moreover, I'm interested in AI-based applications, especially those for language learning due to my background in English Philology.  
