@@ -31,7 +31,7 @@ Moreover I gained knowledge from:
  🚀 [**THE FINAL PROJECT**](https://docs.google.com/presentation/d/1CXtxnlHd7Y-HybfeOGOI3J84Txl9VztBW7NaGl_HDl8/edit#slide=id.g1213a43354d_0_0) 🚀    
 
 
-**GOIT - QA Automation** 🤖 / in progress
+**GOIT - QA Automation** 🤖 
 - Javascript
 - Visual Studio Code
 - [Cypress](https://github.com/nowikat/cypress)
