@@ -1,7 +1,8 @@
 ## About me 👩‍💻    
 I am an accountant with 8 years of experience who decided to switch to the IT industry.   
 Software testing is a field that has intrigued me the most. I am especially fascinated by the possibilities of automation.   
-My professional experience will be particularly valuable in testing accounting software or payment applications.   
+My professional experience will be particularly valuable in testing accounting software or payment applications.  
+Currently, I am fulfilling my role as a QA tester in a volunteer capacity at the Norwegian startup [Pletly](https://pletly.com).  
 Moreover, I'm interested in AI-based applications, especially those for language learning due to my background in English Philology.  
 My dream job is to work on developing such applications!
 
@@ -39,7 +40,12 @@ Moreover I gained knowledge from:
 - [Artillery](https://github.com/nowikat/cypress/tree/main/artillery)
 - Github Actions
 
-## Work experience
+## Work experience  
+**QA Engineer at Pletly**  / July 2024 - now
+
+As a Volunteer QA Engineer at Pletly, I am responsible for testing both mobile and web applications. My role involves identifying and reporting bugs and issues, as well as collaborating closely with the development team to enhance application performance. Through this role, I have gained hands-on experience in real-world testing scenarios and have contributed to improving the quality and usability of Pletly’s products.
+
+
 **Accountant at Pieprzyk Group** / 2015 - now  
 Thanks to my work as an accountant, I have experience with accounting and finance software:  
 
