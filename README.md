@@ -63,16 +63,12 @@ Thanks to my work as an accountant, I have experience with accounting and financ
 - iBiznes by Firmatec (Accounting Document Issuance Program)
 
 
-![My Profile Picture](https://tse4.mm.bing.net/th/id/OIG1.LhciZYmSI9GAe3Dk.Ln9?pid=ImgGn)
 
 
 
 
 
 
-
-
-If you want to know more about me check out [my CV](https://nowikat.github.io/Portfolio/resume/index.html)
 
 
 
