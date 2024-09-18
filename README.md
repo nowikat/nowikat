@@ -1,10 +1,12 @@
 ## About me 👩‍💻    
-I am an accountant with 8 years of experience who decided to switch to the IT industry.   
-Software testing is a field that has intrigued me the most. I am especially fascinated by the possibilities of automation.   
-My professional experience will be particularly valuable in testing accounting software or payment applications.  
-Currently, I am fulfilling my role as a QA tester in a volunteer capacity at the Norwegian startup [Pletly](https://pletly.com).  
-Moreover, I'm interested in AI-based applications, especially those for language learning due to my background in English Philology.  
-My dream job is to work on developing such applications!
+
+I am a QA Engineer with 8 years of experience in accounting, now fully focused on the IT industry. Software testing, especially automation, has become my primary area of interest.
+
+Currently, I volunteer as a QA tester at the Norwegian startup Pletly, where I am responsible for both manual and automated testing of web and mobile applications that facilitate communication between parents of individuals with disabilities and social care workers. My work includes identifying bugs, enhancing user experience, and ensuring high software quality.
+
+In addition to manual testing, I am learning to write automated tests using Cypress in TypeScript, further expanding my skills in test automation.
+
+I am also passionate about AI-based applications, particularly for language learning, drawing on my background in English Philology. My dream is to contribute to the development of such innovative solutions!
 
 ## Courses  
 **GOIT - QA Manual**💻       
