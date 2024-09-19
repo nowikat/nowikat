@@ -1,6 +1,6 @@
 ## About me 👩‍💻    
 
-I am a QA Engineer with 8 years of experience in accounting, now fully focused on the IT industry. Software testing, especially automation, has become my primary area of interest.
+I am an aspiring QA Engineer with 8 years of experience in accounting, now fully focused on the IT industry. Software testing, especially automation, has become my primary area of interest.
 
 Currently, I volunteer as a QA tester at the Norwegian startup Pletly, where I am fully responsible for testing of web and mobile applications that facilitate communication between parents of individuals with disabilities and social care workers. My work includes identifying bugs, enhancing user experience, and ensuring high software quality.
 
