@@ -1,3 +1,4 @@
+# Quality Assurance and Software Testing Portfolio
 ## About me 👩‍💻    
 
 I am an aspiring QA Engineer with 8 years of experience in accounting, now fully focused on the IT industry. Software testing, especially automation, has become my primary area of interest.  
