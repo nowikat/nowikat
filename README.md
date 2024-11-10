@@ -13,7 +13,8 @@ I am currently seeking a paid position as a Software Tester to apply my skills a
 ## Work experience  
 **QA Engineer at Pletly**  / July 2024 - now
 
-As a Volunteer QA Engineer at Pletly, I am responsible for testing both mobile and web applications. My role involves identifying and reporting bugs and issues, as well as collaborating closely with the development team to enhance application performance. Through this role, I have gained hands-on experience in real-world testing scenarios and have contributed to improving the quality and usability of Pletly’s products.
+As a Volunteer QA Engineer at Pletly, I am responsible for testing both mobile and web applications. My role involves identifying and reporting bugs and issues, as well as collaborating closely with the development team to enhance application performance. Through this role, I have gained hands-on experience in real-world testing scenarios and have contributed to improving the quality and usability of Pletly’s products.   
+[🐛SAMPLE BUG REPORTS🐛](https://github.com/nowikat/Bug-reports/tree/fc0895788816d6fd64ef0a88c217d2abc2a4636b/Pletly)
 
 
 **Accountant at Pieprzyk Group** / 2015 - now  
